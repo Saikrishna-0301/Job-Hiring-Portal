@@ -1,5 +1,4 @@
 How to run the Job Portal using PHP & MySQL
-
 1.Download the zip file
 
 2.Extract the file and copy jobportal folder
