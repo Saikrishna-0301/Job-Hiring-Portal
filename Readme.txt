@@ -18,17 +18,12 @@ Username: admin
 Password: Test@123
 
 Employer 1 Credential
-Username: amitk.test@tcs.com
+Username: ram@tcs.com
 Password: Tcs@321
 
 Employer 2 Credential
 Username: rahul.swiggy@test.com
 Password: Swiggy@321
-
-Employer 3 Credential
-Username: john.amazon@test.com
-Password: Amazon@321
-or Register a new employer
 
 Jobseeker Credential
 Username: john@test.com
